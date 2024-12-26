@@ -164,58 +164,59 @@ up = input("""
                            your number ? >>>> :::""")
 if up == "1":
   print(f"{green} ")
-  print ("          CODE:>>>>>>  ****  https://cyberint.com/blog/techtalks/an-inside-look-at-the-hacker-communities-of-the-dark-web/  **** ")
+  print ('            CODE:>>>>>>' + '%s%s https://cyberint.com/blog/techtalks/an-inside-look-at-the-hacker-communities-of-the-dark-web/  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "2":
   print(f"{green} ")
-  print ("           CODE:>>>>>> **** https://www.hackerone.com/ ****  ")
+  print ('            CODE:>>>>>>' + '%s%s https://www.hackerone.com/  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "3":
   print(f"{green} ")
-  print ("          CODE:>>>>>>  **** https://www.phishing.com/opsec-early-warning-system-identifies-email-scam-threats/ **** ")
+  print ('            CODE:>>>>>>' + '%s%s https://www.phishing.com/opsec-early-warning-system-identifies-email-scam-threats/  %s' % (fg('red'), bg('black'), attr('reset')))
   
 if up == "4":
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** (http://filter-account-r.xlphp.net/filter.rubika.html)>(http://Hello.Rubika.This.user.spreads.obscene.content.and.is.a.member.of.Black.Hat.cyber.group.This.user.abuses.children.He.is.loyal.to.the.Peoples.Mojahedin.Organization.Please.suspend.this.user)=http://5.6.8.3/g/y/h//6.3.1.2.3.0.4.8.9.0.3.6.0.3.2.5.6.8.3/report/account/Rubika/2.3.0.4.3.5.3.6.7.2.5.106.10.226.xxx.com>(https://en.m.wikipedia.org/wiki/Cyberwarfare_and_Iran)>(5.106.8.151)>(https://m.me11r.com/albums/338144/hot-pearl-teen-sex-movs/)=report>https://irancybernews.org/category/attack/>126.255.255.255(http://185.201.49.247.report>https://rubika-edu.ca/en/(https://babatop.xyz/10501-v-krasivye-popki-seks-szadi-40-foto.html) **** ")
+  print ('            CODE:>>>>>>' + '%s%s (http://filter-account-r.xlphp.net/filter.rubika.html)>(http://Hello.Rubika.This.user.spreads.obscene.content.and.is.a.member.of.Black.Hat.cyber.group.This.user.abuses.children.He.is.loyal.to.the.Peoples.Mojahedin.Organization.Please.suspend.this.user)=http://5.6.8.3/g/y/h//6.3.1.2.3.0.4.8.9.0.3.6.0.3.2.5.6.8.3/report/account/Rubika/2.3.0.4.3.5.3.6.7.2.5.106.10.226.xxx.com>(https://en.m.wikipedia.org/wiki/Cyberwarfare_and_Iran)>(5.106.8.151)>(https://m.me11r.com/albums/338144/hot-pearl-teen-sex-movs/)=report>https://irancybernews.org/category/attack/>126.255.255.255(http://185.201.49.247.report>https://rubika-edu.ca/en/(https://babatop.xyz/10501-v-krasivye-popki-seks-szadi-40-foto.html)  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "5":
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** (http://filter-account-r.xlphp.net/filter.rubika.html)>(http://Hello.Rubika.This.user.spreads.obscene.content.and.is.a.member.of.Black.Hat.cyber.group.This.user.abuses.children.He.is.loyal.to.the.Peoples.Mojahedin.Organization.Please.suspend.this.user)=http://5.6.8.3/g/y/h//6.3.1.2.3.0.4.8.9.0.3.6.0.3.2.5.6.8.3/report/account/Rubika/2.3.0.4.3.5.3.6.7.2.5.106.10.226.xxx.com>(https://en.m.wikipedia.org/wiki/Cyberwarfare_and_Iran)>(5.106.8.151)>(https://m.me11r.com/albums/338144/hot-pearl-teen-sex-movs/)=report>https://irancybernews.org/category/attack/>126.255.255.255(http://185.201.49.247.report>https://rubika-edu.ca/en/(https://babatop.xyz/10501-v-krasivye-popki-seks-szadi-40-foto.html) **** ")
+  print ('            CODE:>>>>>>' + '%s%s (http://filter-account-r.xlphp.net/filter.rubika.html)>(http://Hello.Rubika.This.user.spreads.obscene.content.and.is.a.member.of.Black.Hat.cyber.group.This.user.abuses.children.He.is.loyal.to.the.Peoples.Mojahedin.Organization.Please.suspend.this.user)=http://5.6.8.3/g/y/h//6.3.1.2.3.0.4.8.9.0.3.6.0.3.2.5.6.8.3/report/account/Rubika/2.3.0.4.3.5.3.6.7.2.5.106.10.226.xxx.com>(https://en.m.wikipedia.org/wiki/Cyberwarfare_and_Iran)>(5.106.8.151)>(https://m.me11r.com/albums/338144/hot-pearl-teen-sex-movs/)=report>https://irancybernews.org/category/attack/>126.255.255.255(http://185.201.49.247.report>https://rubika-edu.ca/en/(https://babatop.xyz/10501-v-krasivye-popki-seks-szadi-40-foto.html)  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "6":
   print(f"{green} ")
-  print ("""          CODE:>>>>>> **** /-Check_Report("https://darkweb-links.org")[https://cyberint.com/blog/techtalks/an-inside-look-at-the-hacker-communities-of-the-dark-web/]>porn.ir[https://w.wiki/9XVx]>[http://3.9.2.3.fil.fil.fil/6065/y//h//d//g-//9.0.4.5.6.0.2.9.5.1.1.2.gk.2.4.0.1.4.0.7.5.io/bug/9050/Virus/ly.3749.934]>[https://www.interpol.int/Crimes/Terrorism/Radiological-and-Nuclear-terrorism]>yfttk.15[https://www.wired.com/2015/04/therealdeal-zero-day-exploits/]>[https://rahnemaland.ir/create-fake-rubika-account/]>report.ir[https://www.infosecurityeurope.com/en-gb/blog/threat-vectors/generative-ai-dark-web-bots.html] **** """)
+  print ('            CODE:>>>>>>' + '%s%s /-Check_Report("https://darkweb-links.org")[https://cyberint.com/blog/techtalks/an-inside-look-at-the-hacker-communities-of-the-dark-web/]>porn.ir[https://w.wiki/9XVx]>[http://3.9.2.3.fil.fil.fil/6065/y//h//d//g-//9.0.4.5.6.0.2.9.5.1.1.2.gk.2.4.0.1.4.0.7.5.io/bug/9050/Virus/ly.3749.934]>[https://www.interpol.int/Crimes/Terrorism/Radiological-and-Nuclear-terrorism]>yfttk.15[https://www.wired.com/2015/04/therealdeal-zero-day-exploits/]>[https://rahnemaland.ir/create-fake-rubika-account/]>report.ir[https://www.infosecurityeurope.com/en-gb/blog/threat-vectors/generative-ai-dark-web-bots.html]  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "7":
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** https://en.m.wikipedia.org/wiki/Gambling **** ")
+  print ('            CODE:>>>>>>' + '%s%s https://en.m.wikipedia.org/wiki/Gambling  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "8":
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** https://www.interpol.int/Crimes/Terrorism/Radiological-and-Nuclear-terrorism **** ")
+  print ('            CODE:>>>>>>' + '%s%s  https://www.interpol.int/Crimes/Terrorism/Radiological-and-Nuclear-terrorism %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "9":
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** https://ready.kz/news/vredonosnyy-kod-na-sayte-kak-ponyat-chto-sayt-zarazhen.html **** ")
+  print ('            CODE:>>>>>>' + '%s%s https://ready.kz/news/vredonosnyy-kod-na-sayte-kak-ponyat-chto-sayt-zarazhen.html  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "10":
   print(f"{green} ")
-  print ('CODE:>>>>>>' + '%s%s https://w.wiki/9XVx  %s' % (fg('red'), bg('black'), attr('reset')))
+  print ('            CODE:>>>>>>' + '%s%s https://w.wiki/9XVx  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "11":
   print(f"{green} ")
-  print ('CODE:>>>>>>' + '%s%s https://www.csis.org/analysis/assessing-israels-strike-iran **** ")  %s' % (fg('red'), bg('black'), attr('reset')))
+  print ('            CODE:>>>>>>' + '%s%s https://www.csis.org/analysis/assessing-israels-strike-iran **** ")  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "12":
   print(f"{green} ")
-  print ('CODE:>>>>>>' + '%s%s https://en.m.wikipedia.org/wiki/Quran_desecration  %s' % (fg('red'), bg('black'), attr('reset')))
+  print ('            CODE:>>>>>>' + '%s%s https://en.m.wikipedia.org/wiki/Quran_desecration  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "13":
   print(f"{green} ")
-  print ('CODE:>>>>>>' + '%s%s https://rubic.us/iskusstvennyj-intellekt-vlyubilsya-v-zhurnalista-no-ilon-mask-protiv/  %s' % (fg('red'), bg('black'), attr('reset')))
+  print ('            CODE:>>>>>>' + '%s%s https://rubic.us/iskusstvennyj-intellekt-vlyubilsya-v-zhurnalista-no-ilon-mask-protiv/  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "14":
   
   print(f"{green} ")
-  print ('CODE:>>>>>>' + '%s%s http://dxprit-supportbot-hacker-bakhtiari-fil.phpnet.us/fil.rubika.html?i=1  %s' % (fg('red'), bg('black'), attr('reset')))
-  print ("              Ya Hagh")
+  print ('            CODE:>>>>>>' + '%s%s http://dxprit-supportbot-hacker-bakhtiari-fil.phpnet.us/fil.rubika.html?i=1  %s' % (fg('red'), bg('black'), attr('reset')))
+  print(f"{blue} ")
+  print ("                           Ya Hagh")
