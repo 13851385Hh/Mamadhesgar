@@ -215,6 +215,7 @@ if up == "13":
   print ("          CODE:>>>>>> **** https://rubic.us/iskusstvennyj-intellekt-vlyubilsya-v-zhurnalista-no-ilon-mask-protiv/ **** ")
 
 if up == "14":
+  
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** http://dxprit-supportbot-hacker-bakhtiari-fil.phpnet.us/fil.rubika.html?i=1 **** ")
+  print ('(Super) Code filter =>' + '%s%s  (/5.6.7.filtering_rubika///6.5.3.8.h//310.561///5.1.1.6) %s' % (fg('red'), bg('black'), attr('reset')))
   print ("Ya Hagh")
