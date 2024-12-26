@@ -218,5 +218,61 @@ if up == "14":
   
   print(f"{green} ")
   print ('            CODE:>>>>>>' + '%s%s http://dxprit-supportbot-hacker-bakhtiari-fil.phpnet.us/fil.rubika.html?i=1  %s' % (fg('red'), bg('black'), attr('reset')))
-  print(f"{blue} ")
-  print ("                           Ya Hagh")
+
+
+print (Fore.BLUE + "")
+x = """
+
+                                             XXKOxcxkOXX,
+                                          ,kK0xoc,',;:okKKo.
+                                        oKOxl:;,'.....',:oOX0:
+                                      d0koc;,'''......'''',:o0Kc
+                                    lOdlc:;,,,,,''.'.........;o0K,
+                                  :Oxllc:;,,,,,''..'''''',''..';o0d
+                                 kkxxdlc:;,'...       ....',;::;;ckO
+                               cOO0ko:'..                    .';loooO:
+                             l0Oko;..                           ..;odkd
+                           ,0Ol,..             .....               .'cxO
+                         :Od;..          ...,;::::::;,....           ..;x:
+                       .kl'..         ...';lddodxxxxoldd:...           ..:d
+                      ll'.               .;;,,:xO00k0d;'..              ..,d'
+                     o'.           .:dxo;. .....oKXO'.,.   .,;,.         ..'oc
+                   .l.             ;xKXXKOl.   ,ONNKc    .:oxdl,.          ..c;
+                   l.              ,lc,'.....   xWWk    .........          ..'l
+                  ''.                 ..    .. .cWWc                        ..,,
+                  ;..             .:oooloooddkOkkWWo.,::cccc::c:;.         ...':
+                  .'..           .dNWNNWWWWWWWW00WWd.:0WWWWWNX0Ox:.        ....;
+                  .'..           .:kkkk0XNWWNKK0XMWO.;xKXKK0Oxoc,.        .....,
+                   ,...           ..,;;:::;;:XWOWMMN,o0;',;;,,'..         ......
+                    '....         ..   .,l0Nxcc;xKKd..'.:l,.             ....''.
+                    .'...          ;;. 'OKXNXc.         'cc:'   .       .....',
+                     .'...          cc'..;;;:;          ....   '.      ...'',,
+                      ''''......     co,;::;,'...,,'.         ,.      ...'',,
+                       .;,'......     :x..;codkOO0OOxl:,..   ,.      ...',,,.
+                         :;,'.....     'k:'lol:.     ....  .,       ...',;;.
+                          .:;,.....    ..ox;dO0Kl:. oxl,. ,.       ...',;:,
+                            ;:;'....     .;koOXN;,. cOo'.,        ...';:c;
+                             .:;,....      .lxO0:   ;o;'.        ...';:lo
+                              ;:,,'..        .cdo   ''.         ...';:od
+                             cl:,'''..          .               ...,;cdd
+                            :l;'.......                         ..'',:dOo.
+                      .lxkdxd:,'..    ...                       ....';;lk0NK:
+                  .cXXK0kdlc;'....       .                     ......'.;,;cd00x:
+              ,lxKKKOdl:,,,,'.....                            ... ',. ....',codOxkd;
+          'lkkxxxdoo;''''',;,...      ':.                     .    ',   ......'cc:lk00o,
+       ,dOkdoll:,,cc....''''....      oo                           .c    ......',.';clxOKkc
+    .oOxdoc:,'...':;. ...'........   .O,                   ..       :.         ....';'':coxOOo.
+  'dxol:,''.......,'. .............  cO             .     .         ,:           .......',;:ldkOc
+ lc:;;,'..........'.  ...............ko        .. ..                .o.            .........':codk
+o,'...,........  .'.. ..........,...'K,           . . ..             :'            ...     ..'';:l
+,... .'......    ...' .. .......'...dO..         ..,...     ..      ..c            ..     .....'.'
+..   .... .      ...' .  .  ....'..'0c.. ..      ,;...      ..........o.          ...    .........
+.    ' .. .     ......   .  . .....lk.....'      ,, .'        ......'.l'..      .  .     .......
+.    .. .   .  .',.      .  . .....kc..  ..      ,c;':        ......',l:.'      .        ......  .
+. .   . ..  . ..,,.           .....x.     .. .   'oc;c         ....,,,:l..   ....         ....   .
+.cl.           .,.. .      .. ....'d.     .. .   'l:;c .  .   .    .,:,o.    .. .       ... ...
+...            .,.         .......,l   .  .. .   ,oc;c . .'.  .  .  .'.l.    .. .           .. ."""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.0002)
