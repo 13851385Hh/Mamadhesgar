@@ -200,22 +200,22 @@ if up == "9":
 
 if up == "10":
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** https://w.wiki/9XVx **** ")
+  print ('CODE:>>>>>>' + '%s%s https://w.wiki/9XVx  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "11":
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** https://www.csis.org/analysis/assessing-israels-strike-iran **** ")
+  print ('CODE:>>>>>>' + '%s%s https://www.csis.org/analysis/assessing-israels-strike-iran **** ")  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "12":
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** https://en.m.wikipedia.org/wiki/Quran_desecration **** ")
+  print ('CODE:>>>>>>' + '%s%s https://en.m.wikipedia.org/wiki/Quran_desecration  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "13":
   print(f"{green} ")
-  print ("          CODE:>>>>>> **** https://rubic.us/iskusstvennyj-intellekt-vlyubilsya-v-zhurnalista-no-ilon-mask-protiv/ **** ")
+  print ('CODE:>>>>>>' + '%s%s https://rubic.us/iskusstvennyj-intellekt-vlyubilsya-v-zhurnalista-no-ilon-mask-protiv/  %s' % (fg('red'), bg('black'), attr('reset')))
 
 if up == "14":
   
   print(f"{green} ")
-  print ('(Super) Code filter =>' + '%s%s  (/5.6.7.filtering_rubika///6.5.3.8.h//310.561///5.1.1.6) %s' % (fg('red'), bg('black'), attr('reset')))
-  print ("Ya Hagh")
+  print ('CODE:>>>>>>' + '%s%s http://dxprit-supportbot-hacker-bakhtiari-fil.phpnet.us/fil.rubika.html?i=1  %s' % (fg('red'), bg('black'), attr('reset')))
+  print ("              Ya Hagh")
